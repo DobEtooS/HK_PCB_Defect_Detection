@@ -1,0 +1,2 @@
+# HK_PCB_Defect_Detection
+基于海康VisionMaster视觉平台的高精度工业视觉智能识别引擎
