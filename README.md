@@ -6,6 +6,13 @@
 ![VisionMaster](https://img.shields.io/badge/VisionMaster-SDK-orange)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI%20Model-yellow?logo=googlecloud&logoColor=white)
 
+---
+
+团队成员：DobEtooS，JURUO TXT，zzh
+
+---
+
+
 ## 🧠 项目简介
 本项目旨在构建一个 **高精度工业视觉智能识别引擎**，依托 **海康威视 VisionMaster 平台**，实现工业生产线的自动化检测、分类与识别任务。  
 系统采用 **Python + C# 混合架构**，结合 **FastAPI 后端框架** 与 **海康 SDK**，并接入 **DeepSeek 大模型** 实现图像语义理解，为工业场景提供智能化、可扩展的视觉解决方案。
