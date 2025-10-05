@@ -63,6 +63,7 @@ project_root/
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 
 服务启动后将运行在 http://127.0.0.1:8000
 
@@ -76,14 +77,14 @@ uvicorn main:app --reload
 
 运行程序后系统将：
 
-自动加载工业检测流程；
+1. 自动加载工业检测流程；
 
-采集图像并调用 FastAPI 接口；
+2. 采集图像并调用 FastAPI 接口；
 
-展示分类检测结果与识别日志。
+3. 展示分类检测结果与识别日志。
 
 
-📞 团队信息
+## 📞 团队信息
 
 团队成员：DobEtooS，JURUO TXT，zzh
 项目名称：基于海康 VisionMaster 视觉平台的高精度工业视觉智能识别引擎
