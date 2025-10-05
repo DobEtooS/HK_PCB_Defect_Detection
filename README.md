@@ -91,12 +91,4 @@ uvicorn main:app --reload
 3. 展示分类检测结果与识别日志。
 
 
-## 📞 团队信息
-
-团队成员：DobEtooS，JURUO TXT，zzh
-项目名称：基于海康 VisionMaster 视觉平台的高精度工业视觉智能识别引擎
-开发语言：Python、C#
-后端框架：FastAPI
-视觉平台：海康威视 VisionMaster
-智能模型：DeepSeek Vision
 
