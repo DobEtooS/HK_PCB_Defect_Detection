@@ -41,6 +41,7 @@
 ---
 
 ## 📂 项目结构
+``` bash
 project_root/
 ├── backend/ # Python (FastAPI) 模块
 │ ├── main.py
@@ -53,6 +54,8 @@ project_root/
 │ └── Result.jpg # 分类检测结果
 ├── README.md
 └── ...
+
+```
 
 ---
 
